@@ -1,3 +1,6 @@
+Listen to the creator:
+https://www.loom.com/share/ff1727a38f22449680ccb1175373b70b
+
 # Tiko - Visualizador de Timeline Gantt
 
 **Tiko** is a cute and colorful **Gantt-style timeline viewer**, built with Next.js, React, and Tailwind CSS.  
