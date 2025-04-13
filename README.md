@@ -25,7 +25,7 @@ Perfect for small projects that need a functional and user-friendly timeline com
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/seu-usuario/tiko.git](https://github.com/VascainoNato/tiko.git
+   git clone https://github.com/VascainoNato/tiko.git
    cd tiko
 
 
