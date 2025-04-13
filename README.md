@@ -19,7 +19,7 @@ Perfect for small projects that need a functional and user-friendly timeline com
 
 ## / How to run the project
 
-1. **Clone o repositório / Clone the repository**
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/seu-usuario/tiko.git](https://github.com/VascainoNato/tiko.git
