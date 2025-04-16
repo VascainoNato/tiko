@@ -4,7 +4,7 @@ https://www.loom.com/share/ff1727a38f22449680ccb1175373b70b
 Acesss yourself:
 https://tiko-theta.vercel.app/
 
-# Tiko - Visualizador de Timeline Gantt
+# Tiko - Gantt Timeline Viewer
 
 **Tiko** is a cute and colorful **Gantt-style timeline viewer**, built with Next.js, React, and Tailwind CSS.  
 It allows you to easily **view**, **drag and drop tasks**, and **edit task details** through an interactive modal.  
@@ -41,6 +41,10 @@ Perfect for small projects that need a functional and user-friendly timeline com
 
 ---
 
-3. **Open in your browser**
+3. **Run the start command**
+
+   npm run dev
+
+4. **Open in your browser**
 
    http://localhost:3000
